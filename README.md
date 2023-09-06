@@ -1,7 +1,8 @@
-**Converts HTML to JSX ** 
+**Converts HTML to JSX** 
 
 🤖 Project Link - jsxwizard.vercel.app
 
+![image](https://github.com/TheCodePassion/converts-html-to-jsx/assets/133754950/483ecd73-b5e0-45d9-93fd-8390651dc611)
 
 Two easy rules:
 
